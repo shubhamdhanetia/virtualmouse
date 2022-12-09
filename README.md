@@ -35,7 +35,7 @@ Feel free to file a new issue with a respective title and description on the **A
 ## Contribution :📲
 1. Clone the repository 
 ```
-$git clone https://github.com/Aayush9027/AI-Virtual-Mouse.git
+$git clone https://github.com/shubhamdhanetia/virtualmouse.git
 ```
 2. Check the status of your file 
 ```
